@@ -76,3 +76,6 @@ p
     margin: 1px;
     font-weight: bold;
 }
+.x:hover{
+    background-color:rgb(94, 94, 143);
+}
